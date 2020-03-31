@@ -22,7 +22,29 @@
       "months_to_renew_support": "14",
       "sme_email": "Crosby.Launder@memento.net.au",
       "vendor_phone": "+7 450 743 0196",
-      "investment_number": "408"
+      "investment_number": "408",
+      "integrations": [
+        {
+          "id": "int-386",
+          "name": "INT-386",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Suspendisse potenti.",
+          "sourceApplicationId": "next_data_science",
+          "targetApplicationId": "social_innovation",
+          "logical_server": "ONLINE",
+          "status_color": "#FF0000",
+          "pattern": "File Delivery",
+          "golive_date": "27/11/02",
+          "sme_name": "Ramsey Tindle",
+          "decom_date": "11/2/17",
+          "datacentre": "Altona",
+          "department": "Integration",
+          "status": "Decomissioned",
+          "sme_email": "rtindlem@memento.net.au",
+          "complexity": "Medium",
+          "last_deployment_date": "25/7/15"
+        }
+      ]
     }
   ]
 }
