@@ -29,7 +29,6 @@
           "name": "INT-386",
           "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
           "description": "Suspendisse potenti.",
-          "sourceApplicationId": "next_data_science",
           "targetApplicationId": "social_innovation",
           "logical_server": "ONLINE",
           "status_color": "#FF0000",
